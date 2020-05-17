@@ -8,4 +8,8 @@ Function2()
 	{
 		//IntialCode2
 	}
+Function3()
+	{
+		//InitialCode-3
+	}
 }
