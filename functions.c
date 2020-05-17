@@ -4,4 +4,8 @@ Function1()
 	{
 		//InitialCode
 	}
+Function3()
+	{
+		//InitialCode-3
+	}
 }
